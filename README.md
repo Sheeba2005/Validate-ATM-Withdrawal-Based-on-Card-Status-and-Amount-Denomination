@@ -1,0 +1,2 @@
+# Validate-ATM-Withdrawal-Based-on-Card-Status-and-Amount-Denomination
+This Java program simulates a simple ATM withdrawal validation system. It checks whether a user can withdraw a specific amount of money based on two criteria: the amount entered and the card status (either "available" or not). The program uses the Scanner class to read inputs and conditional logic (if-else) to validate the conditions.
